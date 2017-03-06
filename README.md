@@ -11,7 +11,7 @@ $ yarn
 $ yarn start
 ```
 
-Navigate to http://localhost:3000.
+Navigate to [http://localhost:3000](http://localhost:3000).
 
 Now open `src/App.js`, edit the rendered string to anything else and save.
 
